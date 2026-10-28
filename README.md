@@ -1,0 +1,2 @@
+# An-lisis-de-Transacciones-Financieras-con-Apache-Spark-y-Kafka
+Para este proyecto de Big Data, estructuré una solución enfocada en el Análisis de Transacciones Financieras. El objetivo es resolver un problema común en la banca: procesar un gran volumen de datos históricos para identificar tendencias de capital, y paralelamente, monitorear el flujo de dinero en tiempo real para detectar la actividad actual.
